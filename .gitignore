@@ -1,0 +1,10 @@
+# Ignore pyvenv file
+pyvenv.cfg
+
+# Ignore folder Scripts, .vscode, Lib, Include and pycache
+.vscode/
+Lib/
+Scripts/
+__pycache__/
+
+pip-selfcheck.json
