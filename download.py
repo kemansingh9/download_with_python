@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import urllib3
 import random
 import argparse
-from tkinter import Tk
 import pyautogui
 from user_agents import user_agent_list
 from imagesearch import *
