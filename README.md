@@ -3,7 +3,7 @@ A python script to automate downloading movies and tv series
 
 ## Requirements
 
-## Run ``` pip install -r requirements.txt ``` in your terminal to install all the requirements
+#### Run ``` pip install -r requirements.txt ``` in your terminal to install all the requirements
 
 
 ## Usage
