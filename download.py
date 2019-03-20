@@ -6,7 +6,7 @@ import argparse
 import pyautogui
 from user_agents import user_agent_list
 from imagesearch import *
-import time 
+import time
 import sys
 import pyperclip
 from colorama import init, Fore, Back, Style
