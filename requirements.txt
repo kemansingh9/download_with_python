@@ -14,7 +14,7 @@ PyRect==0.1.4
 PyScreeze==0.1.20
 python3-xlib==0.15
 PyTweening==1.0.3
-pywin32==224
+pywin32==301
 pywinauto==0.6.6
 six==1.12.0
 soupsieve==1.8
